@@ -1,0 +1,31 @@
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\bin\Debug\net8.0\ProductCodeApi.Application.deps.json
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\bin\Debug\net8.0\ProductCodeApi.Application.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\bin\Debug\net8.0\ProductCodeApi.Application.pdb
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\bin\Debug\net8.0\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\bin\Debug\net8.0\ProductCodeApi.Domain.pdb
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.csproj.AssemblyReference.cache
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.AssemblyInfo.cs
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductC.4C1ACEBB.Up2Date
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\refint\ProductCodeApi.Application.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.pdb
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ref\ProductCodeApi.Application.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\bin\Debug\net8.0\ProductCodeApi.Application.deps.json
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\bin\Debug\net8.0\ProductCodeApi.Application.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\bin\Debug\net8.0\ProductCodeApi.Application.pdb
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\bin\Debug\net8.0\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\bin\Debug\net8.0\ProductCodeApi.Domain.pdb
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.csproj.AssemblyReference.cache
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.AssemblyInfo.cs
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.sourcelink.json
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductC.4C1ACEBB.Up2Date
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\refint\ProductCodeApi.Application.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ProductCodeApi.Application.pdb
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Application\obj\Debug\net8.0\ref\ProductCodeApi.Application.dll

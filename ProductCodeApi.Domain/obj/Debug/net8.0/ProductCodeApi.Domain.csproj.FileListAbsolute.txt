@@ -1,0 +1,23 @@
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\bin\Debug\net8.0\ProductCodeApi.Domain.deps.json
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\bin\Debug\net8.0\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\bin\Debug\net8.0\ProductCodeApi.Domain.pdb
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\refint\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.pdb
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ref\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\bin\Debug\net8.0\ProductCodeApi.Domain.deps.json
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\bin\Debug\net8.0\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\bin\Debug\net8.0\ProductCodeApi.Domain.pdb
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.sourcelink.json
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\refint\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ProductCodeApi.Domain.pdb
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Domain\obj\Debug\net8.0\ref\ProductCodeApi.Domain.dll

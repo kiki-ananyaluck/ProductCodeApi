@@ -1,0 +1,39 @@
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Infrastructure.deps.json
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Infrastructure.runtimeconfig.json
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Infrastructure.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Infrastructure.pdb
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Application.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Application.pdb
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Domain.pdb
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductC.104DD9B5.Up2Date
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\refint\ProductCodeApi.Infrastructure.dll
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.pdb
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.genruntimeconfig.cache
+C:\Users\user\Documents\keke\Thaibev\product-code-system\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ref\ProductCodeApi.Infrastructure.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Infrastructure.deps.json
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Infrastructure.runtimeconfig.json
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Infrastructure.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Infrastructure.pdb
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Application.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Domain.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Application.pdb
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\bin\Debug\net8.0\ProductCodeApi.Domain.pdb
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.sourcelink.json
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductC.104DD9B5.Up2Date
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\refint\ProductCodeApi.Infrastructure.dll
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.pdb
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ProductCodeApi.Infrastructure.genruntimeconfig.cache
+C:\Users\user\Documents\keke\Thaibev\New folder\ProductCodeApi\ProductCodeApi.Infrastructure\obj\Debug\net8.0\ref\ProductCodeApi.Infrastructure.dll

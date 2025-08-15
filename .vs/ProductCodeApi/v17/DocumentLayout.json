@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22855F-DFCB-4678-B83C-5BCD7DDBC416}|ProductCodeApi.Api\\ProductCodeApi.Api.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22855F-DFCB-4678-B83C-5BCD7DDBC416}|ProductCodeApi.Api\\ProductCodeApi.Api.csproj|solutionrelative:productcodeapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14E4649-7045-485F-936F-E4FBD48CDF1C}|ProductCodeApi.Application\\ProductCodeApi.Application.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.application\\services\\productcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14E4649-7045-485F-936F-E4FBD48CDF1C}|ProductCodeApi.Application\\ProductCodeApi.Application.csproj|solutionrelative:productcodeapi.application\\services\\productcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22855F-DFCB-4678-B83C-5BCD7DDBC416}|ProductCodeApi.Api\\ProductCodeApi.Api.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E22855F-DFCB-4678-B83C-5BCD7DDBC416}|ProductCodeApi.Api\\ProductCodeApi.Api.csproj|solutionrelative:productcodeapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22855F-DFCB-4678-B83C-5BCD7DDBC416}|ProductCodeApi.Api\\ProductCodeApi.Api.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E22855F-DFCB-4678-B83C-5BCD7DDBC416}|ProductCodeApi.Api\\ProductCodeApi.Api.csproj|solutionrelative:productcodeapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22855F-DFCB-4678-B83C-5BCD7DDBC416}|ProductCodeApi.Api\\ProductCodeApi.Api.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.api\\productcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E22855F-DFCB-4678-B83C-5BCD7DDBC416}|ProductCodeApi.Api\\ProductCodeApi.Api.csproj|solutionrelative:productcodeapi.api\\productcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076C5941-5D29-4D8E-A35C-22AE33F1776D}|ProductCodeApi.Infrastructure\\ProductCodeApi.Infrastructure.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076C5941-5D29-4D8E-A35C-22AE33F1776D}|ProductCodeApi.Infrastructure\\ProductCodeApi.Infrastructure.csproj|solutionrelative:productcodeapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14E4649-7045-485F-936F-E4FBD48CDF1C}|ProductCodeApi.Application\\ProductCodeApi.Application.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.application\\interfaces\\iproductcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14E4649-7045-485F-936F-E4FBD48CDF1C}|ProductCodeApi.Application\\ProductCodeApi.Application.csproj|solutionrelative:productcodeapi.application\\interfaces\\iproductcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14E4649-7045-485F-936F-E4FBD48CDF1C}|ProductCodeApi.Application\\ProductCodeApi.Application.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.application\\interfaces\\iproductcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14E4649-7045-485F-936F-E4FBD48CDF1C}|ProductCodeApi.Application\\ProductCodeApi.Application.csproj|solutionrelative:productcodeapi.application\\interfaces\\iproductcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14E4649-7045-485F-936F-E4FBD48CDF1C}|ProductCodeApi.Application\\ProductCodeApi.Application.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.application\\validators\\createcodevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14E4649-7045-485F-936F-E4FBD48CDF1C}|ProductCodeApi.Application\\ProductCodeApi.Application.csproj|solutionrelative:productcodeapi.application\\validators\\createcodevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076C5941-5D29-4D8E-A35C-22AE33F1776D}|ProductCodeApi.Infrastructure\\ProductCodeApi.Infrastructure.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.infrastructure\\repositories\\productcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076C5941-5D29-4D8E-A35C-22AE33F1776D}|ProductCodeApi.Infrastructure\\ProductCodeApi.Infrastructure.csproj|solutionrelative:productcodeapi.infrastructure\\repositories\\productcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E22855F-DFCB-4678-B83C-5BCD7DDBC416}|ProductCodeApi.Api\\ProductCodeApi.Api.csproj|c:\\users\\user\\documents\\keke\\thaibev\\new folder\\productcodeapi\\productcodeapi.api\\productcodeapi.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7E22855F-DFCB-4678-B83C-5BCD7DDBC416}|ProductCodeApi.Api\\ProductCodeApi.Api.csproj|solutionrelative:productcodeapi.api\\productcodeapi.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCodeApi.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Api\\appsettings.json",
+              "RelativeToolTip": "ProductCodeApi.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T05:04:57.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductCodeApi.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductCodeApi.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T05:04:53.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCodeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Application\\Services\\ProductCodeService.cs",
+              "RelativeDocumentMoniker": "ProductCodeApi.Application\\Services\\ProductCodeService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Application\\Services\\ProductCodeService.cs",
+              "RelativeToolTip": "ProductCodeApi.Application\\Services\\ProductCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:17:23.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCodeApi.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Api\\Program.cs",
+              "RelativeToolTip": "ProductCodeApi.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:54:28.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCodesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Api\\ProductCodesController.cs",
+              "RelativeDocumentMoniker": "ProductCodeApi.Api\\ProductCodesController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Api\\ProductCodesController.cs",
+              "RelativeToolTip": "ProductCodeApi.Api\\ProductCodesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:27:43.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCodeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Application\\Validators\\CreateCodeValidator.cs",
+              "RelativeDocumentMoniker": "ProductCodeApi.Application\\Validators\\CreateCodeValidator.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Application\\Validators\\CreateCodeValidator.cs",
+              "RelativeToolTip": "ProductCodeApi.Application\\Validators\\CreateCodeValidator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:56:22.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductCodeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Application\\Interfaces\\IProductCodeService.cs",
+              "RelativeDocumentMoniker": "ProductCodeApi.Application\\Interfaces\\IProductCodeService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Application\\Interfaces\\IProductCodeService.cs",
+              "RelativeToolTip": "ProductCodeApi.Application\\Interfaces\\IProductCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:36:19.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductCodeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Application\\Interfaces\\IProductCodeRepository.cs",
+              "RelativeDocumentMoniker": "ProductCodeApi.Application\\Interfaces\\IProductCodeRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Application\\Interfaces\\IProductCodeRepository.cs",
+              "RelativeToolTip": "ProductCodeApi.Application\\Interfaces\\IProductCodeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:35:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCodeApi.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductCodeApi.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:51:33.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductCodeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Infrastructure\\Repositories\\ProductCodeRepository.cs",
+              "RelativeDocumentMoniker": "ProductCodeApi.Infrastructure\\Repositories\\ProductCodeRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Infrastructure\\Repositories\\ProductCodeRepository.cs",
+              "RelativeToolTip": "ProductCodeApi.Infrastructure\\Repositories\\ProductCodeRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:37:13.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductCodeApi.Api.http",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Api\\ProductCodeApi.Api.http",
+              "RelativeDocumentMoniker": "ProductCodeApi.Api\\ProductCodeApi.Api.http",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\Thaibev\\New folder\\ProductCodeApi\\ProductCodeApi.Api\\ProductCodeApi.Api.http",
+              "RelativeToolTip": "ProductCodeApi.Api\\ProductCodeApi.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-14T18:15:49.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
